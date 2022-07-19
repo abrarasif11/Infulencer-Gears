@@ -1,0 +1,192 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+nav a{
+    text-decoration: none;
+    margin: 15px;
+    color: #3A3A3A;
+    font-style: normal;
+}
+nav a:hover{
+    text-decoration: underline;
+    color: #3A3A3A;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+.head-line{
+    padding-top: 40px;
+    padding-left: 80px;
+    font-style: normal;
+}
+.link{
+    padding-right: 100px;
+    padding-top: 70px;
+    font-size: 400;
+    font:bold;
+}
+.start-journey{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    color: #3A3A3A;
+    width: 75%;
+}
+.journey-text{
+    font-weight: 550;
+font-size: 16px;
+width: 55%;
+}
+.prebook-button{
+    background-color: #E02C6D;
+    text-decoration: none;
+    color: white;
+    border-radius: 41px;
+    padding: 10px 24px;
+}
+.journey-title{
+    margin-top: 120px;
+    padding-left: 70px;
+}
+.bg-image{
+    width: 475px;
+    height: 475px;
+    margin-top: 80px;
+    padding-right: 100px;
+    margin-top: 50px; 
+
+}
+.blog-1{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 70px;
+}
+hr{
+    width: 75%;
+    opacity: 0.74;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    margin: 40px 205px;
+}
+#popular{
+    font-weight: 600;
+    font-size: 28px;
+    text-align: center;
+    margin-top: 70px;
+    color: #3A3A3A;
+}
+.box1{
+    box-shadow: 2px 2px 2px 2px lightgrey;
+    width: 329px;
+    height: 476px;
+    padding-left: 25px;
+    padding-top: 25px;
+    border-radius: 5px;
+    padding-bottom: 25px;
+}
+#tr-text{
+    width: 75%;
+}
+#price{
+    font-weight: 400;
+    font-size: 24px;
+    color: rgba(0, 0, 0, 0.87);
+}
+.fa-star{
+    color: orange;
+    size: 0.5em;
+}
+.fa-star-half-stroke{
+    color: orange
+}
+.container1{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 60px;
+    margin-right: 75px;
+    margin-left: 75px;
+}
+.container2{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 60px;
+    margin-right: 75px;
+    margin-left: 75px;
+}
+.container3{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 60px;
+    margin-right: 75px;
+    margin-left: 75px;
+}
+.see{
+    color: #E02C6D;
+    float: right;
+    margin-right: 100px;
+}
+.gear-title{
+padding-left: 100px;
+padding-top: 25px;
+}
+.gear-tag{
+    font-weight: 700;
+    font-size: 40px;
+    color: #0A0826;
+}
+.gear-pic{
+    margin-top: 50px;
+    padding-left: 80px;
+}
+#gear-text{
+    font-weight: 700;
+    font-size: 16px;
+    color: #6C6C6C;
+    width: 85%;
+}
+.Gear{
+    display: flex;
+    padding-top: 90px;
+    width: 95%;
+}
+#join{
+    text-decoration: none;
+    color: white;
+    background-color: #E02C6D;
+    padding: 10px 24px;
+}
+footer{
+    margin-top: 100px;
+    width: 1340px;
+     height: 220px;
+     left: 10px;
+     text-align: center;
+     background: #0A0826;
+     padding-bottom: 70px;
+}
+.influ{
+font-size: 24px;
+color: white;
+padding-top: 30px;
+font-weight: 700;
+}
+.futer{
+    color: #D9DBE1;
+    font-size: 12px;
+    font-weight: 100;
+}
+.insta{
+    color: #D9DBE1;
+}
+.fa-instagram, .fa-twitter, .fa-youtube{
+    padding: 10px;
+}
+.twitter{
+    color: #D9DBE1;
+}
+.yt{
+    color: #D9DBE1;
+}
